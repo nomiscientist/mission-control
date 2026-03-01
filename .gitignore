@@ -28,7 +28,6 @@ yarn-error.log*
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts
-.env
 .data/
 aegis/
 
@@ -39,3 +38,4 @@ playwright-report/
 # Claude Code context files
 CLAUDE.md
 **/CLAUDE.md
+config.bat
